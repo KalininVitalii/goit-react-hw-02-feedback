@@ -1,0 +1,12 @@
+.section {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.title {
+    margin: 10px;
+}
+
+.text {
+    font-size: 20px;
+}
